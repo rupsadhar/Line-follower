@@ -4,7 +4,6 @@ int motor_pin1=3;//itwas 11
 int motor_pin2=10;
 int motor_pin3=5;
 int motor_pin4=6;
-//int zPin=A2;
 
 void setup() {
   // put your setup code here, to run once:
